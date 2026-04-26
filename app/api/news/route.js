@@ -44,7 +44,7 @@ Return only the JSON array.
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${apiKey}`,
+         Authorization": "Bearer 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",
         },
         body: JSON.stringify({
           model: "llama-3.1-70b-versatile",
