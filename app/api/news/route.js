@@ -47,7 +47,7 @@ Return only the JSON array.
          "Authorization": "Bearer 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",
         },
         body: JSON.stringify({
-          model: "llama-3.1-70b-versatile",
+          model: "llama-3.3-70b-versatile",
           messages: [
             {
               role: "user",
